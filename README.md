@@ -1,4 +1,4 @@
-# Full-Stack-Todo-web-Application
+# Full-Stack-Todo-Web-Application
 Angular is a complete front end framework with a wide range of features
 
 Strong Module System,
