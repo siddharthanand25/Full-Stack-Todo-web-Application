@@ -14,6 +14,7 @@ lets combine these awesome frameworks to create your first full stack web applic
 
 
 Required Tools
+
 Node v8+ for npm
 Visual Studio Code - Latest Version
 Java 8+
